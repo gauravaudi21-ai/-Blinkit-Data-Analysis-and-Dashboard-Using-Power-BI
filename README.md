@@ -59,5 +59,7 @@ Interactive Features
 Slicers
 Item Type: Allows filtering based on product categories.
 Outlet Size: Users can filter the data based on small, medium, or large outlets.
+
 Location: A slicer to view data specific to a particular geographical location.
+
 Fat Content: Filter the analysis based on low, medium, or high fat content items.
